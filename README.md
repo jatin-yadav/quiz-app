@@ -1,2 +1,2 @@
 # quiz-app
-# developed using HTML,CSS & JAVASCRIPT
+## developed using HTML,CSS & JAVASCRIPT
